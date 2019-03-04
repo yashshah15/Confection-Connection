@@ -1,0 +1,32 @@
+homepage.asp   ->	/*css/homepage.css
+
+cakes.asp	           ->	/*css/homepage.css
+
+cupcakes.asp     ->	/*css/homepage.css
+
+donuts.asp         ->	/*css/homepage.css
+
+item.asp             ->	/*css/homepage.css
+
+cart.asp	->	add.asp	      (Adding Quantity to cart item)
+	->	remove.asp   (Removing item from cart)
+	->	subtract.asp  (Subtracting item quantity from cart)
+	->	addcart.asp   (For Adding to cart)
+	->	/*css/homepage.css
+
+aboutus.asp     ->	/*css/homepage.css
+
+login.asp	        ->	logout.asp  (Logging- out)
+	        ->	log.asp       (Login Validation)
+	        ->	/*styleLogin.css
+
+register.asp     ->	validate.asp  (Validation and Sending OTP to customer through Mail)
+	        ->	/*styleR.css
+
+setpass.asp     ->	valpass.asp (Setting password on Valid OTP)
+	        ->	/*styleR.css
+
+editprofile.asp  ->	/*css/homepage.css
+
+update.asp      ->	updatelog.asp (Validation and updating details)
+				/*css/homepage.css

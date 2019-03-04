@@ -1,0 +1,82 @@
+body{
+  background-image: url("images/login.jpeg");
+	background-position: center;
+   background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+}
+.txt{
+  color: white;
+	font-family: sans-serif;
+font-size: 45;
+}
+
+image{
+  width: 100%;
+  height: auto;
+}
+
+.mbtn{
+  width: 150px;
+  height: 37px;
+	background-color: rgb(255, 74, 116);
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: white;
+	color: aliceblue;
+	font-size: 21; 
+}
+.mbtn:hover{
+  border-width: 2px;
+  border-color: rgb(255, 74, 116);
+}
+.mydialog{    
+      width: 250;
+    background: rgba(255, 0, 0, 0.42);
+    height: 26px;
+    border: 1px solid rgba(255, 74, 131, 0.44);
+    padding-top: 4px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: -19px;
+    color: white;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+.box{
+	width: 350px;
+  height: 525px;
+	margin-left: 15px;
+	text-align: center;
+  background-color: rgba(255, 255, 255,0.15);
+}
+.jumbotron{
+  width: 350px;
+  height: 500px;
+	margin-left: 350px;
+  background-color: 
+}
+
+.container{
+  width: 400px;
+  height: 400px;
+  margin-top: 50px;
+}
+.new{
+  text-align: right;
+      color: white;
+}
+.new:hover{
+  color: white;
+  text-decoration: underline;
+}
+input{
+   height: 35px;
+   width: 280px;
+   font-size: 18px;
+   margin-bottom: 5px;
+   margin-top: 2px;
+	border-radius: 4px;
+ }
